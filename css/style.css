@@ -59,8 +59,8 @@ div #img-1{
 	padding: 1px;
 }
 
-#press img:hover{
-	border: 5px #C9CDCC solid;
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
 }
 /*
 
