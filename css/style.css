@@ -48,11 +48,11 @@ p{
 	font-size: 0.8em;
 	text-align: right;
 }
-/*
 
-.small {
-	font-size: 0.8em;
+div #img-1{
+	border: 5px rgb(152,173,166) solid;
 }
+/*
 
 header a {
 	color: rgb(152,173,166);
