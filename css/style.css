@@ -62,46 +62,4 @@ div #img-1{
 #press img:hover {
 	border: 5px #7A8380 solid;
 }
-/*
 
-div {
-  transition: all 0.5s ease;
-  background: red;
-  padding: 10px;
-}
-div:hover {
-  background: green;
-  padding: 20px;
-}
-
-header a {
-	color: rgb(152,173,166);
-	text-decoration: none;
-}
-
-header a:hover {
-	color: rgb(111,127,122);
-}
-
-#featured a:hover {
-	text-decoration: underline;
-}
-
-#press {
-	margin-bottom: 20px;
-}
-
-#press img {
-	border: 5px #ccc solid;
-	padding: 1px;
-}
-
-#press img:hover {
-	border: 5px rgb(111,127,122) solid;
-}
-
-footer {
-	text-align: right;
-	background: #fff;
-}
-*/
