@@ -43,12 +43,11 @@ p{
 	font-size: 1em;
 	margin: 0 0 20px 0;
 }
-/*
-p  {
-	color: #555;
-	font-size: 1em;
-	margin: 0 0 20px 0;
+
+#footer{
+	font-size: 0.8em;
 }
+/*
 
 .small {
 	font-size: 0.8em;
