@@ -54,7 +54,8 @@ div #img-1{
 }
 
 #press img{
-	border: #C9CDCC;
+	border: 5px #C9CDCC solid;
+	padding: 1px;
 }
 /*
 
